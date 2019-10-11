@@ -6,6 +6,8 @@ Write the instruction of the specific function to the first sector of the floppy
 
 2: Restart the computer,
 
-3: Display system time,
+3: Display computer time,
 
-4: Modify the system time.
+4: Modify the computer time.
+
+![alt text](https://raw.githubusercontent.com/lilien1010/8086-asm-basic-bootloader-demo/master/src/demo.jpg)
